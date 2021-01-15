@@ -6,7 +6,7 @@
 </head>
 <body>
       <?php
-      $name="toto";
+      $name="Nourhene";
       echo "bonjour $name comment vas tu ?";
       ?>
 </body>

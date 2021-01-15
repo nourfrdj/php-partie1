@@ -10,6 +10,8 @@
       $lastname="lala";
       $age=18;
       echo "bonjour $firstname $lastname ,tu as $age ans ! ?";
+        // on peut afficher comme ca ?> <?="le commentaire " ?>
       ?>
+    
 </body>
 </html>
